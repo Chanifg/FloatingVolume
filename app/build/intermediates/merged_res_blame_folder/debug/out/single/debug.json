@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_main_btn.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_main_btn.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_vol_down.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_vol_down.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/drawable_main_btn_bg.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/drawable/main_btn_bg.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_menu_panel_bg.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/menu_panel_bg.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_card_bg.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_vol_up.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_vol_up.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_ringer.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_ringer.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/layout_floating_menu.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/layout/floating_menu.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_menu_btn_bg_red.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/menu_btn_bg_red.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_main_btn_bg.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/main_btn_bg.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_close.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_menu_btn_bg.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/menu_btn_bg.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/drawable_ic_mute.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/drawable/ic_mute.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/layout_floating_menu.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/layout/floating_menu.xml"
+    },
+    {
+        "merged": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-merged_res-4:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/home/aniiporangbaik/.gradle/daemon/8.2/com.assistivevolume.app-main-6:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/drawable_menu_btn_bg.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/drawable/menu_btn_bg.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/drawable_menu_panel_bg.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/drawable/menu_panel_bg.xml"
+    },
+    {
+        "merged": "com.assistivevolume.app-merged_res-4:/drawable_menu_btn_bg_red.xml.flat",
+        "source": "com.assistivevolume.app-main-6:/drawable/menu_btn_bg_red.xml"
+    }
+]

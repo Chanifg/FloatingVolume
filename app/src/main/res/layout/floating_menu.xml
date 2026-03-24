@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Floating overlay menu: main button + expandable panel -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <!-- Expandable menu panel (hidden by default) -->
+    <LinearLayout
+        android:id="@+id/menuPanel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/menu_panel_bg"
+        android:padding="6dp"
+        android:visibility="gone"
+        android:elevation="8dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center_horizontal">
+
+        <!-- Volume Up -->
+        <ImageButton
+            android:id="@+id/btnVolUp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_vol_up"
+            android:background="@drawable/menu_btn_bg"
+            android:contentDescription="Volume Up"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Volume Down -->
+        <ImageButton
+            android:id="@+id/btnVolDown"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_vol_down"
+            android:background="@drawable/menu_btn_bg"
+            android:contentDescription="Volume Down"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Mute toggle -->
+        <ImageButton
+            android:id="@+id/btnMute"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_mute"
+            android:background="@drawable/menu_btn_bg"
+            android:contentDescription="Mute"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Ringer mode cycle: Normal → Vibrate → Silent -->
+        <ImageButton
+            android:id="@+id/btnSilent"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_ringer"
+            android:background="@drawable/menu_btn_bg"
+            android:contentDescription="Ringer Mode"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Divider -->
+        <View
+            android:layout_width="28dp"
+            android:layout_height="1dp"
+            android:background="#44FFFFFF"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Close / stop service -->
+        <ImageButton
+            android:id="@+id/btnClose"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_close"
+            android:background="@drawable/menu_btn_bg_red"
+            android:contentDescription="Tutup" />
+
+    </LinearLayout>
+
+    <!-- Main floating button (always visible, drag to move) -->
+    <ImageButton
+        android:id="@+id/btnMain"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:src="@drawable/ic_main_btn"
+        android:background="@drawable/main_btn_bg"
+        android:elevation="12dp"
+        android:contentDescription="AssistiveVolume" />
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AssistiveVolume</string>
+    <string name="toggle_on">Aktifkan Tombol Mengambang</string>
+    <string name="toggle_off">Matikan Tombol Mengambang</string>
+</resources>

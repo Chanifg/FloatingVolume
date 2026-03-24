@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#000000</color>
+    <color name="card_bg">#1A1A1A</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_secondary">#AAAAAA</color>
+
+    <!-- Accent (Black/White) -->
+    <color name="accent_primary">#FFFFFF</color>
+    <color name="accent_primary_dark">#CCCCCC</color>
+    <color name="accent_warning">#333333</color>
+
+    <!-- Floating button -->
+    <color name="btn_bg">#222222</color>
+    <color name="btn_bg_pressed">#444444</color>
+</resources>
