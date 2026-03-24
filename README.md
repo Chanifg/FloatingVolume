@@ -1,6 +1,6 @@
 # 🎛️ FloatingVolume (AssistiveVolume)
 
-**FloatingVolume** adalah aplikasi Android ringan (dibangun dengan **Kotlin** & **Native UI**) yang menyediakan kontrol volume melayang (Gaya *AssistiveTouch*). Aplikasi ini sangat cocok sebagai solusi alternatif bagi pengguna yang tombol fisik volume di *smartphone*-nya (misalnya Redmi Note 8 Pro atau HP Android lainnya) sedang rusak.
+**FloatingVolume** adalah aplikasi Android ringan (dibangun dengan **Kotlin** & **Native UI**) yang menyediakan kontrol volume melayang (Gaya *AssistiveTouch*). Aplikasi ini sangat cocok sebagai solusi alternatif bagi pengguna yang tombol fisik volume di *smartphone*-nya sedang rusak.
 
 ---
 
